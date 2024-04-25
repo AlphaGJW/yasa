@@ -1,6 +1,1 @@
-# Auto detect text files and perform LF normalization
-* text=auto
-
-docs/* linguist-documentation
-notebooks/* linguist-documentation
-html/* linguist-documentation
+* -text
